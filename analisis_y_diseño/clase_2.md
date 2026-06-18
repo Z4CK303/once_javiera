@@ -1,4 +1,4 @@
-Listo. Aquí tienes el resumen de las 6 imágenes del curso *Análisis y Diseño de Software*:
+### Resumen: clase 2
 
 ### *1. Visión general del curso*
 Curso 100% conceptual. Objetivo: aprender a pensar como arquitecto digital, no a programar. 
